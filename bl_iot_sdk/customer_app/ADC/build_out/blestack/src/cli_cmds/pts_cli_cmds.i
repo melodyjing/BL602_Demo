@@ -1,0 +1,5 @@
+# 1 "/home/melody/work/Doiting_BL/bl_iot_sdk/components/network/ble/blestack/src/cli_cmds/pts_cli_cmds.c"
+# 1 "/home/melody/work/Doiting_BL/bl_iot_sdk/customer_app/ADC/build_out/blestack//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "/home/melody/work/Doiting_BL/bl_iot_sdk/components/network/ble/blestack/src/cli_cmds/pts_cli_cmds.c"

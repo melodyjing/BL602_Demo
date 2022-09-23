@@ -1,0 +1,7 @@
+# Automatically generated build file. Do not edit.
+COMPONENT_INCLUDES += $(PROJECT_PATH)/ADC $(PROJECT_PATH)/ADC/include $(PROJECT_PATH)/ADC/include
+COMPONENT_LDFLAGS +=  -L$(BUILD_DIR_BASE)/ADC -lADC 
+COMPONENT_LINKER_DEPS += 
+COMPONENT_SUBMODULES += 
+COMPONENT_LIBRARIES += ADC
+component-ADC-build: 

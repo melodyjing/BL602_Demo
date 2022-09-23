@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.1187136733/BL60X_SDK_PATH/delimiter=\:
+environment/project/0.1187136733/BL60X_SDK_PATH/operation=append
+environment/project/0.1187136733/BL60X_SDK_PATH/value=/home/melody/work/BL602_Demo/bl_iot_sdk
+environment/project/0.1187136733/CONFIG_CHIP_NAME/delimiter=\:
+environment/project/0.1187136733/CONFIG_CHIP_NAME/operation=append
+environment/project/0.1187136733/CONFIG_CHIP_NAME/value=BL602
+environment/project/0.1187136733/append=true
+environment/project/0.1187136733/appendContributed=true
